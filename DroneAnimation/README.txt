@@ -60,10 +60,6 @@
     - Removed the connection between the chopper camera and the drone
     - Implemented correct logic for the first-person camera
 
-## Additional Notes for Graders
-
-- None, all parts work as expected. 
-
 ## File Structure
 - `DroneAnimation.cpp`: File containing the main function for this program, results in the file `DroneAnimation`
 - All new functionality is implemented within Model, View, and Controller
